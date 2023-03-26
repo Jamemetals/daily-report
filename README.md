@@ -17,4 +17,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Row3 : (Col1 is def pie_plot_kW_TR_day(df):, Col2 is def create_box_plot_day(df):) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Row4 : Col1 is def summary_day(df):
 
+**5. Deploy by Render**
+
 
