@@ -1,8 +1,8 @@
 # Power and BTU daily report dashboard
 
-1. Import Data from monthly and daily report in .csv file
+**1. Import Data from monthly and daily report in .csv file**
 
-2. Have 5 plotly graph in dash board with 5 function \n
+**2. Have 5 plotly graph in dash board with 5 function \n**
    2.1 def kW_each_power_meter_day(df): --> Area plot of kW from each power meter
    2.2 def compare_kW_TR_day(df): --> line plor of Total_kW and Total_Tr 
    2.3 def pie_plot_kW_TR_day(df): --> pie plot of kW from each power meter and BTU meter
